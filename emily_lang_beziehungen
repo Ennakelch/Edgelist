@@ -1,0 +1,5 @@
+id,from,to,weight,relation
+1,X,A,1,Freundin
+2,X,B,1,Bruder
+3,X,C,1,Freundin
+4,X,D,2,Freundin 
